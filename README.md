@@ -14,6 +14,7 @@ amacını kavradım
 HYPER TEXT MARK LANGUAGE => HTML (düz metinleri veya işlevsiz metinleri bir link aracılığıyla anlamlı hale getiren işaretleme dili
 HYPER TEXT TRANSFER PROTOCOL => HTTP ( bir metinden ziyade dış dünya ile aramızdaki uyulması gereken belirli protokol kuralları
 4:RAM HEAP STACK veriler iş akışları stack overflow çözümleri
+5:tek sayfalı uygulamalar ve reactde şablon kavramı
 
 
 öğrendiğim kütüphanler:
